@@ -4,7 +4,7 @@ smenv/
 env/
 
 #Raw data files
-data/processed/raw/*.csv
+data/raw/*.csv
 
 #Python cache files
 __pycache__/
