@@ -3,10 +3,6 @@ smenv/
 .venv/
 env/
 
-#Raw data files
-data/raw/*.csv
-data/processed/*.csv
-
 #Python cache files
 __pycache__/
 *.pyc
